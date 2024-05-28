@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seif eldein Mohamed</h1>
 <h3 align="center">A Student at Faculty of Computer Science and Artificial Intelligence - Cairo University</h3>
 
-- 🌱 I’m currently learning **c++/python/data structures**
+- 🌱 I’m currently learning **Laravel/python/dataware housing/data analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/seifeldein1/My_Projects](https://github.com/seifeldein1/My_Projects)
 
