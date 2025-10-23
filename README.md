@@ -19,7 +19,7 @@
 ### 🚀 Featured Project
 
 <p align="center">
-  <img src="https://github.com/seifeldein1/Cark-Smart-Car-Rental-Platform/blob/main/blue.png" alt="Cark Project Banner" width="700"/>
+  <img src="https://github.com/seifeldein1/Cark-Smart-Car-Rental-Platform/blob/main/5.png" alt="Cark Project Banner" width="700"/>
 </p>
 
 ## 🏎️ Cark – Smart Car Rental Platform (Graduation Project)
