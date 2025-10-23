@@ -10,7 +10,10 @@
 ---
 
 ### 🌱 Currently Learning
-**Laravel**, **Python**, **Data Warehousing**, and **Data Analysis**
+**Django**, **ASP.NET**, **Laravel**, **Spring Boot**, **Python**, **SQL Server**, **Data Warehousing**, **Data Analysis**, **Machine Learning**, and **Cloud Deployment (Azure)** — focusing on backend development, database optimization, and intelligent data-driven applications.
+
+💡 Passionate about designing scalable systems and integrating AI into backend architectures to deliver smart, data-driven solutions.
+
 
 ---
 
