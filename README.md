@@ -29,7 +29,7 @@ A **mobile-first peer-to-peer car rental platform** that connects car owners wit
 The system was built as a **full-stack solution** using **Flutter** for the frontend and **Django REST Framework** for the backend, with **AI microservices** powered by Flask for intelligent document and image validation.  
 Deployed on **Microsoft Azure** with **Cloudflare** integration for enhanced security and performance.  
 
-🔗 **Repository:** [Cark – Smart Car Rental Platform]([https://github.com/seifeldein1/Cark](https://github.com/seifeldein1/Cark-Smart-Car-Rental-Platform))
+🔗 **Repository:** [Cark – Smart Car Rental Platform]((https://github.com/seifeldein1/Cark-Smart-Car-Rental-Platform))
 
 ---
 
