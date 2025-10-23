@@ -17,7 +17,7 @@
 ### 💼 Projects
 Check out my repositories here 👉 [**GitHub Projects**](https://github.com/seifeldein1?tab=repositories)
 
-📄 View my resume → [**My CV (Google Drive)**](https://drive.google.com/file/d/1jXPzCyWmT9cmZ3jEQ5gt6hFbMTRS3JYO/view?usp=drive_link)
+📄 View my resume → [**My CV (Google Drive)**](https://drive.google.com/drive/folders/1P6pnKoh-dYYD9-rhShO9lDePK8zyytd6?usp=sharing)
 
 ---
 
@@ -51,7 +51,6 @@ Check out my repositories here 👉 [**GitHub Projects**](https://github.com/sei
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seifeldein1&show_icons=true&theme=radical" alt="Seif's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seifeldein1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
