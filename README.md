@@ -26,7 +26,7 @@
 **Tech Stack:** Django REST Framework · Flutter · Flask (AI & ML) · MySQL · Microsoft Azure · Google Maps API · Paymob · Cloudflare  
 
 A **mobile-first peer-to-peer car rental platform** that connects car owners with renters, offering **secure booking**, **AI-based car and ID verification**, **real-time GPS tracking**, and **smart pricing**.  
-The system was built as a **full-stack solution** using **Flutter** for the frontend and **Django REST Framework** for the backend, with **AI microservices** powered by Flask for intelligent document and image validation.  
+The system was built as a **full-stack solution** using **Flutter** for the frontend and **Django REST Framework** for the backend, with **AI microservices** powered by Flask for intelligent document and image validation and smart car matching based on brand. 
 Deployed on **Microsoft Azure** with **Cloudflare** integration for enhanced security and performance.  
 
 🔗 **Repository:** [Cark – Smart Car Rental Platform](https://github.com/seifeldein1/Cark-Smart-Car-Rental-Platform)
